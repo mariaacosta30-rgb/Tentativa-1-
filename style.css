@@ -1,0 +1,11 @@
+  body {
+            background-color: #FF1493; /* Rosa Choque */
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            padding: 20px;
+            box-sizing: border-box;
+            font-family: Arial, sans-serif;
+  }
