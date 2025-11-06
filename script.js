@@ -11,3 +11,5 @@ function Boasvindas() {
         let EstadoCivil = prompt("digite seu Estado Civil:");
         alert("Bem-vindo,"+EstadoCivil+"! Vamos aprender JavaScript");
 }
+        
+        
